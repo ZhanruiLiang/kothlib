@@ -1,0 +1,4 @@
+King of The Hill(KoTH) is a form of codegolf challenge. This library is inspired by [this question][1].
+
+
+  [1]: http://meta.codegolf.stackexchange.com/questions/1934/interacting-with-persistent-programs
